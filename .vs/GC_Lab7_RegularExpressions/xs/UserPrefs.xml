@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{BD3284A7-AD4C-472B-935E-E355FA828402}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GC_Lab7_RegularExpressions/Program.cs">
+    <Files>
+      <File FileName="GC_Lab7_RegularExpressions/Program.cs" Line="13" Column="179" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GC__Lab7__RegularExpressions PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
